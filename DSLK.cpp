@@ -1,3 +1,4 @@
+//khong co noi dung 
 #include<iostream>
 using namespace std;
 struct Node{
